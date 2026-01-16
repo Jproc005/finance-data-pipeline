@@ -125,3 +125,25 @@ SQLite
 SQL
 
 openpyxl
+
+Why This Project Matters
+
+This is not a toy project. It demonstrates:
+
+Real-world data ingestion
+
+Schema normalization
+
+Validation & issue tracking
+
+SQL-based reporting
+
+Business-focused outputs
+
+Non-technical usability
+
+This is the type of automation used in finance, operations, and analytics teams.
+
+License
+
+MIT
