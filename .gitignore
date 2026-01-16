@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Data outputs (keep repo clean)
+data/processed/
+data/output/
+database/*.db
+database/*.sqlite
+database/*.sqlite3
+
+# If you want to keep empty folders tracked, add placeholder files instead

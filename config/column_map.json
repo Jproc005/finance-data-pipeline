@@ -1,0 +1,5 @@
+{
+  "date": ["date", "transaction_date", "posted_date", "txn_date"],
+  "amount": ["amount", "net_revenue", "revenue", "gross_amount", "value"],
+  "description": ["description", "memo", "details", "channel", "dataset"]
+}
